@@ -2,9 +2,8 @@ package main
 
 import "fmt"
 
-func test_main() {
-	fmt.Printf("hello, world\n")
-	myFunc()
+func main(){
+	test_myFunc()
 }
 
 func test_myFunc(){
